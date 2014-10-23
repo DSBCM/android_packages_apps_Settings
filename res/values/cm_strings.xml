@@ -1443,4 +1443,15 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="profile_setup_setup_triggers_description">Please select triggers which will activate this profile</string>
     <string name="profile_setup_actions_description">Now configure what happens when the profile is activated</string>
 
+    <!-- Dynamic system bars -->
+    <string name="dynamic_system_bars_title">Dynamic system bars</string>
+    <string name="dynamic_status_bar_title">Dynamic status bar</string>
+    <string name="dynamic_status_bar_summary">Automatically update the background of the status bar</string>
+    <string name="dynamic_navigation_bar_title">Dynamic navigation bar</string>
+    <string name="dynamic_navigation_bar_summary">Automatically update the background of the navigation bar</string>
+    <string name="dynamic_system_bars_gradient_title">System bar gradient</string>
+    <string name="dynamic_system_bars_gradient_summary">Overlay a gradient on the system bars</string>
+    <string name="dynamic_status_bar_filter_title">Darker status bar</string>
+    <string name="dynamic_status_bar_filter_summary">Overlay a darkening filter on the status bar</string>
+
 </resources>
